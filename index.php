@@ -4,10 +4,10 @@
     <title> My Home Page </title>
   </head>
   <body>
-  <h1> Welcome to My Website! I am Jhon Anthony! </h1>
+  <h1> Welcome to My Website! I am Shuto Fukushima! </h1>
   <ul>
     <li><a href="index.php" target="_blank"> HOME </a></li>
-    <li><a href="/LT2/Sia.html" target= "_blank"> LEARNING TASK 2 </a> </li>
+    <li><a href="/LT2/Homepage.html" target= "_blank"> LEARNING TASK 2 </a> </li>
   </ul>
   </body>
 </html>
